@@ -1,0 +1,24 @@
+.finpag{
+    margin-top: 1.5rem;
+    margin-left: -1%;
+    margin-right: -0.9%;
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    background-color: rgb(28, 56, 70);
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.a > a {    
+    padding: 0px 20px;
+    margin-left: -1%;
+    margin-right: -0.9%;
+    text-decoration: none;
+    color: white;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-size: 1rem;
+}
+
+
